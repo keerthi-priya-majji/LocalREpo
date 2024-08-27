@@ -1,0 +1,78 @@
+[33mcommit 59b8241115276d071bb1e4c42eb135065d19d5bd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbranch2[m[33m)[m
+Author: Keerthi M <keerthim@ideyalabs.com>
+Date:   Tue Aug 27 13:09:41 2024 +0530
+
+    hello1
+
+[33mcommit 4fddf06604c80c61304a40e70af1396e16e47145[m
+Author: Keerthi M <keerthim@ideyalabs.com>
+Date:   Tue Aug 27 11:09:17 2024 +0530
+
+    commit all changes
+
+[33mcommit 8c526414a49f6a0e24596c5afb36ab676242b4e2[m
+Author: Keerthi M <keerthim@ideyalabs.com>
+Date:   Mon Aug 26 22:33:13 2024 +0530
+
+    commit1
+
+[33mcommit 200ced2924ac1d39bc47bfe91672eaed2912d1bc[m
+Merge: 2095593 4d7e783
+Author: keerthi-priya-majji <137778830+keerthi-priya-majji@users.noreply.github.com>
+Date:   Mon Aug 26 22:27:14 2024 +0530
+
+    Merge pull request #2 from keerthi-priya-majji/branch2
+    
+    commit3
+
+[33mcommit 4d7e7830166cf7779c2427876268a18b20bfa5db[m
+Author: Keerthi M <keerthim@ideyalabs.com>
+Date:   Mon Aug 26 22:13:09 2024 +0530
+
+    commit1
+
+[33mcommit 20955932d680161c997d67b462f329b754d4097f[m
+Merge: 4ea6f45 29f7b45
+Author: keerthi-priya-majji <137778830+keerthi-priya-majji@users.noreply.github.com>
+Date:   Mon Aug 26 18:29:36 2024 +0530
+
+    Merge pull request #1 from keerthi-priya-majji/branch2
+    
+    Branch2
+
+[33mcommit 29f7b4515620c64fdb067908cb9c99ee74e79472[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: ef5bfe0 254d553
+Author: Keerthi M <keerthim@ideyalabs.com>
+Date:   Mon Aug 26 16:10:31 2024 +0530
+
+    Merge feature-b into main with resolved conflicts
+
+[33mcommit 254d553ddc00c736b7c4cb221491cc7aa7a26c8d[m[33m ([m[1;32mfeature-b[m[33m)[m
+Author: Keerthi M <keerthim@ideyalabs.com>
+Date:   Mon Aug 26 16:07:22 2024 +0530
+
+    add changes from feature b
+
+[33mcommit ef5bfe0bed6ee20809240ef94e7bdc46f1ca4e1f[m[33m ([m[1;32mfeature-a[m[33m)[m
+Author: Keerthi M <keerthim@ideyalabs.com>
+Date:   Mon Aug 26 16:05:47 2024 +0530
+
+    commit changes
+
+[33mcommit 4ea6f459121cdc00b747302e7b3dfebca556b91e[m[33m ([m[1;32mnew-feature[m[33m)[m
+Author: Keerthi M <keerthim@ideyalabs.com>
+Date:   Mon Aug 26 15:56:49 2024 +0530
+
+    Add feature.txt with initial content
+
+[33mcommit a4277a89e4be69cc3b5990661e102938a9b85186[m
+Author: Keerthi M <keerthim@ideyalabs.com>
+Date:   Mon Aug 26 15:50:04 2024 +0530
+
+    commit
+
+[33mcommit c1bec7ccc4482389c8d8a849032c2734e939ad00[m
+Author: Keerthi M <keerthim@ideyalabs.com>
+Date:   Mon Aug 26 15:48:17 2024 +0530
+
+    commited
